@@ -32,3 +32,4 @@ const currentOS = {
 console.log(
     currentOS
 );
+console.log(os.cpus());
