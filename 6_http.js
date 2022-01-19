@@ -18,4 +18,5 @@ let server = http.createServer((req,res)=>{
     }
 
 })
+const fs = require('fs')
 server.listen(1000);
