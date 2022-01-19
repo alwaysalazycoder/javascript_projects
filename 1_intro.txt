@@ -1,0 +1,22 @@
+# Here we discussed the node modules such as 
+1. childprocess
+2. filesystem
+3. path 
+4. operating system
+5. http 
+
+this modules are used to give extra features related to the os ,fs,path and http ....
+
+
+
+
+
+// !! Global   -- NO window!!
+
+// __dirname  ===> path to current directory
+// __filename ===> filename
+// require    ===> function to use the node modules (Common JS)
+// module     ===> info about the current module
+// process    ===> info about the env where the current program is executed 
+
+// you can console log any of these values ....
